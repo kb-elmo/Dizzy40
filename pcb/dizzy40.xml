@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\elmo\Documents\Git\keyboard_design\Dizzy40\pcb\dizzy40.kicad_sch</source>
-    <date>07/06/2022 22:21:24</date>
+    <date>07/06/2022 22:39:01</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -980,10 +980,10 @@
       <footprint>custom_parts:WS2812-2020</footprint>
       <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
       <fields>
-        <field name="LCSC">C965556</field>
+        <field name="LCSC">C965555</field>
       </fields>
       <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965556"/>
+      <property name="LCSC" value="C965555"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dizzy40.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -994,10 +994,10 @@
       <footprint>custom_parts:WS2812-2020</footprint>
       <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
       <fields>
-        <field name="LCSC">C965556</field>
+        <field name="LCSC">C965555</field>
       </fields>
       <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965556"/>
+      <property name="LCSC" value="C965555"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dizzy40.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1008,10 +1008,10 @@
       <footprint>custom_parts:WS2812-2020</footprint>
       <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
       <fields>
-        <field name="LCSC">C965556</field>
+        <field name="LCSC">C965555</field>
       </fields>
       <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965556"/>
+      <property name="LCSC" value="C965555"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dizzy40.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1022,10 +1022,10 @@
       <footprint>custom_parts:WS2812-2020</footprint>
       <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
       <fields>
-        <field name="LCSC">C965556</field>
+        <field name="LCSC">C965555</field>
       </fields>
       <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965556"/>
+      <property name="LCSC" value="C965555"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dizzy40.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1036,10 +1036,10 @@
       <footprint>custom_parts:WS2812-2020</footprint>
       <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
       <fields>
-        <field name="LCSC">C965556</field>
+        <field name="LCSC">C965555</field>
       </fields>
       <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965556"/>
+      <property name="LCSC" value="C965555"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dizzy40.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1050,10 +1050,10 @@
       <footprint>custom_parts:WS2812-2020</footprint>
       <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
       <fields>
-        <field name="LCSC">C965556</field>
+        <field name="LCSC">C965555</field>
       </fields>
       <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965556"/>
+      <property name="LCSC" value="C965555"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dizzy40.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1064,10 +1064,10 @@
       <footprint>custom_parts:WS2812-2020</footprint>
       <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
       <fields>
-        <field name="LCSC">C965556</field>
+        <field name="LCSC">C965555</field>
       </fields>
       <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965556"/>
+      <property name="LCSC" value="C965555"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dizzy40.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1078,10 +1078,10 @@
       <footprint>custom_parts:WS2812-2020</footprint>
       <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
       <fields>
-        <field name="LCSC">C965556</field>
+        <field name="LCSC">C965555</field>
       </fields>
       <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
-      <property name="LCSC" value="C965556"/>
+      <property name="LCSC" value="C965555"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="dizzy40.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
