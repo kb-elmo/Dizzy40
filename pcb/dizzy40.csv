@@ -17,7 +17,7 @@ Comment,Designator,Footprint,LCSC
 "22","R3,R4","Resistor_SMD:R_0805_2012Metric","C17561"
 "10k","R5,R6","Resistor_SMD:R_0805_2012Metric","C17414"
 "RESET","RESET1","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
-"WS2812B","RGB1,RGB2,RGB3,RGB4,RGB5,RGB6,RGB7,RGB8","custom_parts:WS2812-2020",""
+"WS2812B","RGB1,RGB2,RGB3,RGB4,RGB5,RGB6,RGB7,RGB8","custom_parts:WS2812-2020","C965556"
 "ATmega32U2-A","U1","Package_QFP:TQFP-32_7x7mm_P0.8mm","C618733"
 "SRV05-4","U2","Package_TO_SOT_SMD:SOT-23-6","C85364"
 "USB_C_Receptacle_USB2.0","USB1","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","C165948"
