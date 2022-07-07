@@ -4,7 +4,7 @@
 
 ### A simple drop-in replacement PCB for the KPR Daisy 40% with more layout options
 
-<img src="https://i.imgur.com/M1FRsXH.jpg" alt="header" width="800"/>
+<img src="https://i.imgur.com/ZMyr7Ax.jpg" alt="header" width="800"/>
 
 ---
 
